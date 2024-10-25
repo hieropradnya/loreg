@@ -1,0 +1,7 @@
+{
+  "name": "relog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
